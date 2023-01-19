@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Mark Otuya! </h2>
+<h2> I'm Mark Otuya! </h2>
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 - 🌱 I’m currently studing at Microverse
