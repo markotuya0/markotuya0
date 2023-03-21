@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h2> I'm Mark Otuya! </h2>
-<p><em>Remote Full-stack web developer ready for adventure</em></p>
+<p><em>I am a passionate full-stack software developer who enjoys working on all kinds of tech.
+I’m currently available for new job opportunities</em></p>
 
 - 🌱 I’m currently open to remote opportunities
 - 👯 I’m looking to collaborate on Web projects
