@@ -48,6 +48,5 @@ I’m currently available for new job opportunities</em></p>
   ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
