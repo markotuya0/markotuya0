@@ -1,5 +1,5 @@
 Hi there 👋
-<h2>I'm Mark Otuya</h2> <p> <em> Full-Stack & Platform Engineer focused on building reliable, production-ready systems across frontend, backend, and cloud infrastructure. </em> </p>
+<h2>I'm Mark Otuya</h2> <p> <em> Full-Stack Front end focused  Engineer focused on building reliable, production-ready systems across frontend, backend, and cloud infrastructure. </em> </p>
 
 🌍 Open to remote opportunities (global / distributed teams)
 
