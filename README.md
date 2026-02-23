@@ -1,94 +1,57 @@
-Hi there 👋
-<h2>I'm Mark Otuya</h2> <p> <em> Full-Stack Front end focused  Engineer focused on building reliable, production-ready systems across frontend, backend, and cloud infrastructure. </em> </p>
+# Hey, I'm Mark Otuya 👋
 
-🌍 Open to remote opportunities (global / distributed teams)
+**Full-Stack & AI Engineer** — I build production-grade web applications and AI-powered systems. Frontend-focused but comfortable across the full stack from database schema to deployed UI.
 
-🧱 Building production-grade systems (auth, APIs, async jobs, infrastructure)
+Currently working at **Jobin.cloud** (Ireland, Remote) building AI recruiting tools. Pivoting deeper into AI engineering — shipping LLM-powered products with LangChain, OpenAI, and Google Gemini.
 
-🤝 Open to collaborating on serious web & platform projects
+---
 
-💬 Ask me about system design, frontend architecture, backend, or DevOps
+## What I'm building
 
-📫 Reach me on X / Twitter: @mark4slatty
+- 🤖 **[Rora AI](https://github.com/markotuya0/rora-ai)** — Text-to-SQL intelligence using LangChain + Ollama. Ask in plain English, get SQL back. Zero API costs, fully local LLM, Docker deployed.
+- 📄 **[Resume Refined](https://resume-refined-sooty.vercel.app)** — AI SaaS that tailors resumes to job descriptions. OpenAI-powered, Supabase backend, live in production.
+- 📈 **[SignalDeck](https://markotuya.netlify.app)** — Real-time AI stock intelligence dashboard. Google Gemini AI summaries, multi-source data aggregation, signal detection.
+- 🔌 **[ProxySock](https://proxysock.com)** — B2B proxy infrastructure SaaS. Built solo end to end — Node.js APIs, PostgreSQL, Redis caching, Stripe billing, AWS EC2 deployment. 3,000+ daily transactions, 99.9% uptime.
+- ⚽ **[Let's Play](https://lets-play-blond.vercel.app)** — Football pitch booking platform for Nigeria. Find verified pitches, book slots, weekly leaderboard. React, Node.js, Supabase, real-time features.
 
-Languages & Tools
-<br /> <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" /> <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /> <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" /> <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /> <img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /> <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+---
 
-<br /><br /><br />
+## Stack
 
-🛠 Tech Stack
-💻 Backend & Platform
+**Frontend**
+React 18+ · Next.js · TypeScript · Redux Toolkit · TanStack Query · Tailwind CSS · shadcn/ui
 
-Node.js (Fastify, Express)
+**Backend**
+Node.js · Express · FastAPI · GraphQL · REST APIs · WebSockets
 
-TypeScript / JavaScript
+**AI & LLMs**
+LangChain · OpenAI API · Google Gemini · Ollama · Prompt Engineering
 
-REST APIs & GraphQL
+**Database**
+PostgreSQL · MongoDB · Supabase · Redis · SQLite
 
-Authentication systems (JWT, refresh tokens, RBAC)
+**Auth & Payments**
+JWT · OAuth · Supabase Auth · Stripe · Paystack
 
-Prisma ORM
+**DevOps & Cloud**
+AWS EC2 · Docker · NGINX · Vercel · GitHub Actions · Sentry
 
-🌐 Frontend
+**Testing**
+Jest · Cypress · React Testing Library · Pytest · Vitest
 
-React (18+)
+---
 
-Next.js
+## Currently
 
-Vue.js / Nuxt.js
+- 🏢 Frontend Engineer at **Jobin.cloud** — React, Next.js, MongoDB, GraphQL, OpenAI
+- 🎓 BSc Computer Science — Edinburgh Napier University (2026)
+- 🌍 Based in Lagos, Nigeria — open to remote roles worldwide
+- 🤝 Open to collaborating on serious AI or full-stack projects
 
-Tailwind CSS, Sass
+---
 
-Component-driven design & accessibility
+## Connect
 
-🗄️ Data & Messaging
-
-PostgreSQL
-
-MongoDB
-
-Redis
-
-SQL data modeling
-
-☁️ Infrastructure & DevOps
-
-Docker & Docker Compose
-
-AWS (EC2, RDS, S3, IAM, Lambda)
-
-Nginx
-
-CI/CD pipelines
-
-Environment & configuration management
-
-🧪 Testing & Quality
-
-Vitest
-
-Jest
-
-Cypress
-
-Integration & API testing
-
-🧰 Tools & Workflow
-
-Git & GitHub
-
-VS Code
-
-Figma (engineering-driven collaboration)
-
-Monorepos & documentation-first workflows
-
-🧭 How I Work
-
-Build strong foundations first (infra, data, environments)
-
-Prefer clarity over cleverness
-
-Document decisions, not just code
-
-Optimize for systems other engineers can understand and maintain
+[![Portfolio](https://img.shields.io/badge/Portfolio-markotuya.netlify.app-blue)](https://markotuya.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mark--chukwu-blue)](https://linkedin.com/in/mark-chukwu)
+[![Email](https://img.shields.io/badge/Email-markotuya0%40gmail.com-red)](mailto:markotuya0@gmail.com)
