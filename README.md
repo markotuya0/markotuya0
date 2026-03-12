@@ -12,7 +12,7 @@ Currently working at **Jobin.cloud** (Ireland, Remote) building AI recruiting to
 - 📄 **[Resume Refined](https://resume-refined-sooty.vercel.app)** — AI SaaS that tailors resumes to job descriptions. OpenAI-powered, Supabase backend, live in production.
 - 📈 **[SignalDeck](https://singaldeck.vercel.app)** — Real-time AI stock intelligence dashboard. Google Gemini AI summaries, multi-source data aggregation, signal detection.
 - 🔌 **[ProxySock](https://proxysock.com)** — B2B proxy infrastructure SaaS. Built solo end to end — Node.js APIs, PostgreSQL, Redis caching, Stripe billing, AWS EC2 deployment. 3,000+ daily transactions, 99.9% uptime.
-- ⚽ **[Let's Play](https://lets-play-blond.vercel.app)** — Football pitch booking platform for Nigeria. Find verified pitches, book slots, weekly leaderboard. React, Node.js, Supabase, real-time features.
+- ⚽ **[BALLERSYARD](https://BALLERSYARD.com)** — Football pitch booking platform for Nigeria. Find verified pitches, book slots, weekly leaderboard. React, Node.js, Supabase, real-time features.
 
 ---
 
