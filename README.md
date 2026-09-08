@@ -1,52 +1,97 @@
 # Hey, I'm Mark Otuya 👋
 
-**Full-Stack & AI Engineer** — I build production-grade web applications and AI-powered systems. Frontend-focused but comfortable across the full stack from database schema to deployed UI.
+**Full-Stack & AI Engineer** building production web applications, AI-powered products, and scalable backend systems.
 
-Currently working at **Jobin.cloud** (Ireland, Remote) building AI recruiting tools. Pivoting deeper into AI engineering — shipping LLM-powered products with LangChain, OpenAI, and Google Gemini.
+I work mainly with **React, Next.js, TypeScript, Node.js, Python, PostgreSQL, and AWS**, with hands-on experience across frontend architecture, APIs, databases, CI/CD, observability, and deployment.
 
----
-
-## What I'm building
-
-- 🤖 **[Rora AI](https://github.com/markotuya0/rora-ai)** — Text-to-SQL intelligence using LangChain + Ollama. Ask in plain English, get SQL back. Zero API costs, fully local LLM, Docker deployed.
-- 📄 **[Resume Refined](https://resume-refined-sooty.vercel.app)** — AI SaaS that tailors resumes to job descriptions. OpenAI-powered, Supabase backend, live in production.
-- 📈 **[SignalDeck](https://singaldeck.vercel.app)** — Real-time AI stock intelligence dashboard. Google Gemini AI summaries, multi-source data aggregation, signal detection.
-- 🔌 **[ProxySock](https://proxysock.com)** — B2B proxy infrastructure SaaS. Built solo end to end — Node.js APIs, PostgreSQL, Redis caching, Stripe billing, AWS EC2 deployment. 3,000+ daily transactions, 99.9% uptime.
-- ⚽ **[BALLERSYARD](https://BALLERSYARD.com)** — Football pitch booking platform for Nigeria. Find verified pitches, book slots, weekly leaderboard. React, Node.js, Supabase, real-time features.
+I’m also deepening my focus on **Platform Engineering**, particularly Kubernetes, EKS, Terraform, infrastructure automation, and production reliability.
 
 ---
 
-## Stack
+## Featured Projects
 
-**Frontend**
-React 18+ · Next.js · TypeScript · Redux Toolkit · TanStack Query · Tailwind CSS · shadcn/ui
+### 📈 StockSense
+AI-powered stock intelligence platform.
 
-**Backend**
-Node.js · Express · FastAPI · GraphQL · REST APIs · WebSockets
+**Next.js · TypeScript · PostgreSQL · Supabase · Python · GitHub Actions**
 
-**AI & LLMs**
-LangChain · OpenAI API · Google Gemini · Ollama · Prompt Engineering
+- Market data, fundamentals, technical indicators, and cited news
+- AI-generated stock analysis with structured outputs
+- Signal tracking and accuracy measurement
+- Automated background jobs and data pipelines
 
-**Database**
-PostgreSQL · MongoDB · Supabase · Redis · SQLite
+Live: https://stocksense-4qu.pages.dev
 
-**Auth & Payments**
-JWT · OAuth · Supabase Auth · Stripe · Paystack
+---
 
-**DevOps & Cloud**
-AWS EC2 · Docker · NGINX · Vercel · GitHub Actions · Sentry
+### 🤖 [Rora AI](https://github.com/markotuya0/rora-ai)
+LLM-powered Text-to-SQL and RAG system.
 
-**Testing**
-Jest · Cypress · React Testing Library · Pytest · Vitest
+**Python · FastAPI · LangChain · PostgreSQL · Pydantic · Pytest · Docker**
+
+- Natural language to SQL
+- Live schema injection
+- Structured validation
+- Query safety constraints
+- Automated regression testing
+- CI/CD with GitHub Actions
+
+---
+
+### 🔌 [ProxySock](https://proxysock.com)
+Production B2B SaaS built end-to-end.
+
+**Next.js · TypeScript · Node.js · PostgreSQL · Redis · Stripe · AWS · Docker**
+
+- 3,000+ daily transactions
+- Multi-tenant architecture
+- Subscription billing
+- Redis caching
+- CI/CD and production monitoring
+- 99.9% uptime
+
+---
+
+### ⚽ [BALLERSYARD](https://ballersyard.com)
+Football pitch discovery and booking platform.
+
+**React · Node.js · Supabase**
+
+- Verified pitch listings
+- Booking workflows
+- Real-time features
+- Community and leaderboard functionality
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · TanStack Query · Zustand · Redux Toolkit · Tailwind CSS · shadcn/ui
+
+**Backend**  
+Node.js · Python · FastAPI · REST · GraphQL · WebSockets
+
+**AI / LLM**  
+LangChain · OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Structured Outputs
+
+**Data**  
+PostgreSQL · Supabase · MongoDB · Redis
+
+**Cloud & DevOps**  
+AWS · Docker · GitHub Actions · CI/CD · Sentry · Vercel · Railway · Render
+
+**Platform Engineering**  
+Kubernetes · Amazon EKS · Terraform · Infrastructure as Code · Observability
 
 ---
 
 ## Currently
 
-- 🏢 Frontend Engineer at **Jobin.cloud** — React, Next.js, MongoDB, GraphQL, OpenAI
-- 🎓 BSc Computer Science — Edinburgh Napier University (2026)
-- 🌍 Based in Lagos, Nigeria — open to remote roles worldwide
-- 🤝 Open to collaborating on serious AI or full-stack projects
+- Building production AI and full-stack systems
+- Deepening my Platform Engineering expertise
+- BSc Computer Science — Edinburgh Napier University
+- Open to remote Full-Stack, AI, Cloud, and Platform Engineering roles
 
 ---
 
