@@ -2,101 +2,64 @@
 
 **Full-Stack & AI Engineer** building production web applications, AI-powered products, and scalable backend systems.
 
-I work mainly with **React, Next.js, TypeScript, Node.js, Python, PostgreSQL, and AWS**, with hands-on experience across frontend architecture, APIs, databases, CI/CD, observability, and deployment.
+I work primarily with **React, Next.js, TypeScript, Node.js, Python, PostgreSQL, and AWS**, and I’m comfortable owning products across frontend architecture, APIs, databases, CI/CD, observability, and deployment.
 
-I’m also deepening my focus on **Platform Engineering**, particularly Kubernetes, EKS, Terraform, infrastructure automation, and production reliability.
+I’m also deepening my focus on **Platform Engineering**, particularly Kubernetes, Amazon EKS, Terraform, infrastructure automation, and production reliability.
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### 📈 StockSense
-AI-powered stock intelligence platform.
+AI-powered stock intelligence platform combining market data, technical indicators, fundamentals, news, and LLM analysis into explainable stock research.
 
-**Next.js · TypeScript · PostgreSQL · Supabase · Python · GitHub Actions**
-
-- Market data, fundamentals, technical indicators, and cited news
-- AI-generated stock analysis with structured outputs
-- Signal tracking and accuracy measurement
-- Automated background jobs and data pipelines
+Built with **Next.js, TypeScript, PostgreSQL, Supabase, Python, and GitHub Actions**.
 
 Live: https://stocksense-4qu.pages.dev
 
----
-
 ### 🤖 [Rora AI](https://github.com/markotuya0/rora-ai)
-LLM-powered Text-to-SQL and RAG system.
+Public LLM and RAG project that converts natural-language questions into SQL using live schema context, structured validation, query safety controls, automated regression testing, and CI/CD.
 
-**Python · FastAPI · LangChain · PostgreSQL · Pydantic · Pytest · Docker**
-
-- Natural language to SQL
-- Live schema injection
-- Structured validation
-- Query safety constraints
-- Automated regression testing
-- CI/CD with GitHub Actions
-
----
+Built with **Python, FastAPI, LangChain, PostgreSQL, Pydantic, Pytest, and Docker**.
 
 ### 🔌 [ProxySock](https://proxysock.com)
-Production B2B SaaS built end-to-end.
+Production B2B SaaS platform I built end-to-end using **Next.js, TypeScript, Node.js, PostgreSQL, Redis, Stripe, AWS, and Docker**.
 
-**Next.js · TypeScript · Node.js · PostgreSQL · Redis · Stripe · AWS · Docker**
-
-- 3,000+ daily transactions
-- Multi-tenant architecture
-- Subscription billing
-- Redis caching
-- CI/CD and production monitoring
-- 99.9% uptime
-
----
+Handles **3,000+ daily transactions** with multi-tenant architecture, caching, CI/CD, production monitoring, and 99.9% uptime.
 
 ### ⚽ [BALLERSYARD](https://ballersyard.com)
-Football pitch discovery and booking platform.
-
-**React · Node.js · Supabase**
-
-- Verified pitch listings
-- Booking workflows
-- Real-time features
-- Community and leaderboard functionality
+Football pitch discovery and booking platform built with **React, Node.js, and Supabase**, including booking workflows, real-time features, and community functionality.
 
 ---
 
-## Tech Stack
+## Tech
 
-**Frontend**  
-React · Next.js · TypeScript · JavaScript · TanStack Query · Zustand · Redux Toolkit · Tailwind CSS · shadcn/ui
+**Frontend:** React, Next.js, TypeScript, TanStack Query, Zustand, Redux Toolkit, Tailwind CSS, shadcn/ui
 
-**Backend**  
-Node.js · Python · FastAPI · REST · GraphQL · WebSockets
+**Backend & Data:** Node.js, Python, FastAPI, REST, GraphQL, PostgreSQL, Supabase, Redis
 
-**AI / LLM**  
-LangChain · OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Structured Outputs
+**AI:** LangChain, OpenAI, Claude, Gemini, Groq, RAG, AI agents, structured outputs
 
-**Data**  
-PostgreSQL · Supabase · MongoDB · Redis
+**Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD, Sentry, Vercel, Railway, Render
 
-**Cloud & DevOps**  
-AWS · Docker · GitHub Actions · CI/CD · Sentry · Vercel · Railway · Render
-
-**Platform Engineering**  
-Kubernetes · Amazon EKS · Terraform · Infrastructure as Code · Observability
+**Platform Engineering:** Kubernetes, Amazon EKS, Terraform, Infrastructure as Code, observability
 
 ---
 
 ## Currently
 
-- Building production AI and full-stack systems
-- Deepening my Platform Engineering expertise
-- BSc Computer Science — Edinburgh Napier University
-- Open to remote Full-Stack, AI, Cloud, and Platform Engineering roles
+Building production full-stack and AI systems while developing deeper expertise in cloud and platform engineering.
+
+BSc Computer Science — **Edinburgh Napier University**
+
+Open to remote **Full-Stack, AI, Cloud, and Platform Engineering** opportunities.
 
 ---
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-markotuya.netlify.app-blue)](https://markotuya.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-markotuya.com-blue)](https://markotuya.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mark--chukwu-blue)](https://linkedin.com/in/mark-chukwu)
+
 [![Email](https://img.shields.io/badge/Email-markotuya0%40gmail.com-red)](mailto:markotuya0@gmail.com)
