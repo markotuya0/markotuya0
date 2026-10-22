@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  I build <strong>modern web apps, AI products, and scalable platforms</strong> that are fast, clean, and production-ready.
+  I build <strong>AI-powered products, full-stack systems, and clean SaaS experiences</strong> that are fast, reliable, and production-ready.
 </p>
 
 ## What I do
 
 - Full-stack product engineering for SaaS and internal tools
-- AI-powered experiences, automation, and RAG systems
-- Cloud-native backend architecture and deployment pipelines
-- UX-focused frontend systems that feel polished and reliable
+- AI products, LLM workflows, and agentic systems
+- Backend architecture, APIs, data pipelines, and cloud deployment
+- UX-focused frontend experiences that feel polished and easy to use
 
 ## Core stack
 
@@ -29,18 +29,30 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/LLM%2FAgents-AI-8B5CF6?style=flat-square" alt="AI/Agents" />
 </p>
 
 ## Featured work
 
-- StockSense — AI stock research platform with market data, technical signals, fundamentals, and explainable insights
-- Rora AI — SQL-first LLM app that turns natural-language questions into validated database queries
-- ProxySock — production B2B SaaS infrastructure built for scale, reliability, and multi-tenant operations
-- BALLERSYARD — football venue discovery and booking platform with engaging user flows
+- <strong>Rora AI</strong> — local-first text-to-SQL system that turns natural-language questions into safe, validated database queries
+- <strong>AgentMesh</strong> — multi-agent event mesh for distributed AI workflows, message handoff, and observable processing
+- <strong>ProxySock</strong> — production SaaS platform I built end-to-end for real-world B2B traffic and multi-tenant operations
+- <strong>VisitAid</strong> — real-time AI vision assistant for accessibility and scene understanding
+- <strong>FormFlow AI</strong> — conversational AI form experience for faster, guided data collection
+- <strong>BALLERSYARD</strong> — booking and discovery platform for sports venues
+
+## Build style
+
+I enjoy turning ideas into products that are:
+
+- useful in the real world
+- technically reliable under pressure
+- easy for users to trust and understand
+- designed with clean product thinking, not just code for code’s sake
 
 ## Right now
 
-Building practical, production-grade full-stack and AI systems while deepening my work in cloud and platform engineering.
+Building practical full-stack and AI systems while deepening my work in cloud, platform engineering, and scalable product architecture.
 
 BSc Computer Science — Edinburgh Napier University
 
